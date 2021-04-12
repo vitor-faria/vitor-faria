@@ -18,7 +18,7 @@ Machine Learning, developed by me and a group of 4 other students and presented 
 ### Default Prediction App (EN🇺🇸)
 
 Simple streamlit application to interact with a ML classification model I created based on PKDD'99 default financial data of a czech bank. This was an exercise 
-proposed in one of Tera's Bootcamp class.
+proposed by Tera's Bootcamp during the Deploy module.
 
 - [GitHub Repo](https://github.com/vitor-faria/default-prediction-app)
 - [Heroku App](https://default-prediction-app.herokuapp.com/)
@@ -42,6 +42,8 @@ In our Data Science, Engineering and Analytics team, I:
 
 ### BI Intern @ Somos Educação (2018-2019)
 
+<details>
+
 SOMOS was (when aquired by Kroton) the largest group of basic education in Brazil and impacted more than 27 million students across Brazil through various brands. 
 
 My role as BI Intern in the Business Unit of Solutions for Higher and Technical Education was to:
@@ -50,10 +52,16 @@ My role as BI Intern in the Business Unit of Solutions for Higher and Technical 
 - use Data Storytelling to build visuals and slides for Radar meetings;
 - develop processes to improve Knowledge Management.
 
+</details>
+
 ### Junior Entrepreneur @ Mult Jr (2015-2017)
+
+<details>
 
 Mult Jr is a Junior Enterprise voluntarily managed by Chemical Engineering students that provides solutions under the technical guidance of Professors from the
 University. And it is where I fell in love with Excel spreadsheets and Data Analysis, while working in the Financial and HR departments.
+  
+</details>
 
 ## 🧑‍🎓 Education
 
@@ -71,27 +79,35 @@ activities:
 
 #### Automation & Simulation Summer School @ RTWH Aachen 🇩🇪
 
+<details>
 > The Summer Schools are courses provided by the International Academy of the RWTH Aachen University targeting Engineering students of outstanding academic 
 > performance from all over the world. The program of the 4-week Automation and Simulation course gather many activities, such as lectures and exercises about 
 > Nummerical Methods in Matlab and Robot Automation, classes about german language and culture, visits to state of the art german companies, excursions and 
 > intercultural training. The course took place during the month of July, 2019.
+</details>
 
 #### Academic Exchange @ FAU Erlangen 🇩🇪
 
+<details>
 > 1 semester academic exchange at Friedrich-Alexander Universität through the program Minas Mundi (UFMG), from April 2018 to August 2018. All lessons were taught 
 > in German.
 > Language courses: Deutsch Intensivkurs C1.1 (March 2018, 5 ECTS), Deutsch Allgemeinkurs C1 (April to July 2018, 5 ECTS) - Sprachzentrum.
+</details>
 
 #### Volunteer @ Equalizar
 
+<details>
 > Founded in 2012, Equalizar is a social project based at the Engineering School of UFMG that provides low-cost preparation for ENEM, the exam used to enter most 
 > public and private universities, helping vulnerable students from the public system to change their lives. Equalizar is totally managed by volunteers and helps 
 > +100 students every year.
 > I worked voluntarily at Equalizar between 2014 and 2016 in different positions such as Math monitor, HR assistant and Communication director.
+</details>
 
 #### Scientific Initiation @ CDTN
 
+<details>
 > 1-year Scientific Initiation at Centro de Desenvolvimento de Tecnologia Nuclear, working on the project *"Obtaining Graphene and Graphene Oxide in Aqueous 
 > Environment for Contaminant Adsorption"* together with doctoral students. The aim of the project is to optimize graphene extraction by the exfoliation method 
 > in the liquid phase using water as solvent and to study the use of graphene oxides to clean water contaminated with radioactive substances by the adsorption 
 > method.
+</details>
