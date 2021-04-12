@@ -27,7 +27,7 @@ proposed by Tera's Bootcamp during the Deploy module.
 - [Heroku App](https://default-prediction-app.herokuapp.com/)
 - [Streamlit Share App](https://share.streamlit.io/vitor-faria/default-prediction-app/main/app.py)
 
-## 🧑‍💻 Work Experience
+## 👨‍💻 Work Experience
 
 ### Data Analyst @ Platos Educação (2019-current)
 
@@ -93,7 +93,7 @@ In our Data Science, Engineering and Analytics team, I:
   > - Evaluate member performance.
 </details>
 
-## 🧑‍🎓 Education
+## 👨‍🎓 Education
 
 ### Data Science and Machine Learning Bootcamp @ Tera
 
@@ -158,3 +158,10 @@ activities:
   > in the liquid phase using water as solvent and to study the use of graphene oxides to clean water contaminated with radioactive substances by the adsorption 
   > method.
 </details>
+
+## 🤹‍♂️ 🤾‍♂️ Hobbies
+
+- brewing craft beer 🍺
+- Reading and discussing Fiction in Book Clubs 📚
+- Spending more time deciding what to watch next in Netflix than actually watching 🎥
+- Running, cycling and skipping 🏃
