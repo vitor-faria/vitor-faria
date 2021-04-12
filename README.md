@@ -159,9 +159,9 @@ activities:
   > method.
 </details>
 
-## 🤹‍♂️ 🤾‍♂️ Hobbies
+## 🤾‍♂️ Hobbies
 
-- brewing craft beer 🍺
+- Brewing different styles of craft beer 🍺
 - Reading and discussing Fiction in Book Clubs 📚
 - Spending more time deciding what to watch next in Netflix than actually watching 🎥
 - Running, cycling and skipping 🏃
