@@ -1,5 +1,6 @@
 # Hi, I'm Vitor 👋
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitor-faria)](https://github.com/vitor-faria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-faria/)](https://www.linkedin.com/in/vitor-faria/)
 
 I'm a ISFJ generalist with a Bachelor degree in Chemical Engineering by Universidade Federal de Minas Gerais (🇧🇷) and a volunteer work background, who became interested in data analysis, manipulation and visualization through Excel and has recently shifted to a career in **Data Science & Analytics**. 
