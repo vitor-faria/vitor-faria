@@ -1,4 +1,6 @@
-# Hi, it's Vitor 👋
+# Hi, I'm Vitor 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-faria/)](https://www.linkedin.com/in/vitor-faria/)
 
 I'm a ISFJ generalist with a Bachelor degree in Chemical Engineering by Universidade Federal de Minas Gerais (🇧🇷) and a volunteer work background, who became interested in data analysis, manipulation and visualization through Excel and has recently shifted to a career in **Data Science & Analytics**. 
 
@@ -6,16 +8,16 @@ Currently based in Belo Horizonte, working with data and pursuing a Master of Sc
 
 ## 👨‍🔬 Projects, Notebooks & Articles
 
-### TeraBeer (PT🇧🇷)
+### TeraBeer (PT/🇧🇷)
 
 Recommending system of brazilian craft beers based on the user's taste for food and beverages. This was the final project of Tera's bootcamp of Data Science &
 Machine Learning, developed by me and a group of 4 other students and presented in a Demoday's panel of experts.
 
 - [GitHub Repo](https://github.com/vitor-faria/tera-beer-recommendations)
 - [Medium Article](https://vitorfaria95.medium.com/terabeer-construindo-um-sistema-de-recomenda%C3%A7%C3%A3o-de-cervejas-artesanais-brasileiras-2a131d66421c)
-- [Heroku App](https://terabeer-recomendacoes.herokuapp.com/)
+- [Heroku App 🍻](https://terabeer-recomendacoes.herokuapp.com/)
 
-### Default Prediction App (EN🇺🇸)
+### Default Prediction App (EN/🇺🇸)
 
 Simple streamlit application to interact with a ML classification model I created based on PKDD'99 default financial data of a czech bank. This was an exercise 
 proposed by Tera's Bootcamp during the Deploy module.
@@ -43,7 +45,7 @@ In our Data Science, Engineering and Analytics team, I:
 ### BI Intern @ Somos Educação (2018-2019)
 
 <details>
-  <summary>About this job</summary>
+  <summary>About this experience</summary>
   
   <br>
   
@@ -60,12 +62,34 @@ In our Data Science, Engineering and Analytics team, I:
 ### Junior Entrepreneur @ Mult Jr (2015-2017)
 
 <details>
-  <summary>About this job</summary>
+  <summary>About this experience</summary>
   
   <br>
   
   Mult Jr is a Junior Enterprise voluntarily managed by Chemical Engineering students that provides solutions under the technical guidance of Professors from the
-  University. And it is where I fell in love with Excel spreadsheets and Data Analysis, while working in the Financial and HR departments.
+  University. And it is where I fell in love with Excel spreadsheets and Data Analysis, while working in the Financial, HR and IT departments.
+  
+  **CFO**
+  
+  > - Legal representation of the JE.
+  > - Manage an annual budget of ~R$ 50k.
+  > - Lead a 5 member team.
+  > - Ensure the execution of financial, accounting and legal processes, such as cash flow and drafting of contracts.
+  > - Define Pricing strategies.
+  
+  **IT Coordinator**
+  
+  > - Lead a 7 member team.
+  > - Maintain the functioning of the site and other virtual tools.
+  > - Develop spreadsheets and applications for other teams.
+  > - Provide adequate training in virtual tools such as Excel, VBA and PowerPoint.
+  
+  **HR analyst**
+  
+  > - Recruitment and selection.
+  > - Coach other members.
+  > - Analyze organizational climate.
+  > - Evaluate member performance.
 </details>
 
 ## 🧑‍🎓 Education
