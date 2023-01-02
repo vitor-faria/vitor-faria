@@ -9,10 +9,24 @@ Currently living in Germany, and engaged in the Master Program of Data Science a
 
 ## 👨‍🔬 Projects, Notebooks & Articles
 
-### TeraBeer (PT/🇧🇷)
+### Wikinator: an Akinator-like game based on DBPedia's Knowledge Graph (EN/🇺🇸)
 
-Recommending system of brazilian craft beers based on the user's taste for food and beverages. This was the final project of Tera's bootcamp of Data Science &
-Machine Learning, developed by me and a group of 4 other students and presented in a Demoday's panel of experts.
+Final project for the module of Semantic Web Technologies / Knowledge Graphs, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2022/23. It is a game application inspired in Akinator, that tries to guess which real world person or fictional character the players are thinking of, but relying solely on data available in DBPedia's Knowledge Graph and SPARQL queries.
+
+- [GitHub Repo](https://github.com/vitor-faria/wikinator)
+- [Final Report](https://github.com/vitor-faria/wikinator/blob/main/Wikinator%20Project%20-%20Final%20Report.pdf)
+- [Heroku app](https://kg-wikinator.herokuapp.com/)
+
+### Sentiment Analysis of headlines about US presidents in their first year of mandate (EN/🇺🇸)
+
+Final project for the module of Automated Media Content Analysis, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2021/22. The sentiment of headlines and snippets from The New York Times articles concerning two United States presidents (Donald Trump and Joe Biden) in their first year of government were analyzed with NLP techniques.
+
+- [GitHub Repo](https://github.com/vitor-faria/nyt-headlines-sentiment)
+- [Notebook and Report](https://github.com/vitor-faria/nyt-headlines-sentiment/blob/main/AMCA_Project_and_Report.ipynb)
+
+### TeraBeer: a recommender system of brazilian craft beers (PT/🇧🇷)
+
+Recommending system of brazilian craft beers based on the user's taste for food and beverages. This was the final project of Tera's bootcamp of Data Science & Machine Learning, developed by me and a group of 4 other students and presented in a Demoday's panel of experts.
 
 - [GitHub Repo](https://github.com/vitor-faria/tera-beer-recommendations)
 - [Medium Article](https://vitorfaria95.medium.com/terabeer-construindo-um-sistema-de-recomenda%C3%A7%C3%A3o-de-cervejas-artesanais-brasileiras-2a131d66421c)
@@ -20,8 +34,7 @@ Machine Learning, developed by me and a group of 4 other students and presented 
 
 ### Default Prediction App (EN/🇺🇸)
 
-Simple streamlit application to interact with a ML classification model I created based on PKDD'99 default financial data of a czech bank. This was an exercise 
-proposed by Tera's Bootcamp during the Deploy module.
+Simple streamlit application to interact with a ML classification model I created based on PKDD'99 default financial data of a czech bank. This was an exercise proposed by Tera's Bootcamp during the Deploy module.
 
 - [GitHub Repo](https://github.com/vitor-faria/default-prediction-app)
 - [Heroku App](https://default-prediction-app.herokuapp.com/)
