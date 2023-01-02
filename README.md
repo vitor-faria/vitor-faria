@@ -3,9 +3,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitor-faria)](https://github.com/vitor-faria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-faria/)](https://www.linkedin.com/in/vitor-faria/)
 
-I'm a ISFJ generalist with a Bachelor degree in Chemical Engineering by Universidade Federal de Minas Gerais (🇧🇷) and a volunteer work background, who became interested in data analysis, manipulation and visualization through Excel and has recently shifted to a career in **Data Science & Analytics**. 
+Brazilian-Italian ISFJ generalist who has shifted from Chemical Engineering to the Data career, and accumulated over 3 years of work experience in Data Science, Business Intelligence and Analytics Engineering, with the purpose of making data useful for people and companies. 
 
-Currently based in Belo Horizonte, working with data and pursuing a Master of Science in Data Science.
+Currently living in Germany, and engaged in the Master Program of Data Science at the University of Mannheim.
 
 ## 👨‍🔬 Projects, Notebooks & Articles
 
@@ -29,19 +29,41 @@ proposed by Tera's Bootcamp during the Deploy module.
 
 ## 👨‍💻 Work Experience
 
-### Data Analyst @ Platos Educação (2019-current)
+### Data Scientist @ Jusbrasil (2021-current)
 
-Platos is part of the holding Cogna Educação, one of the world's leading educational organizations, and serves the B2B Higher Education market. The company 
-offers, under the brand Saraiva Educação, a range of educational services and solutions for higher education institutions across the country, such as digital 
-libraries, digital learning environments and online preparation for exams.
+Jusbrasil is the leading legal website in Brazil, where people can find laws, lawsuits, court decisions and the legal reputation of organizations and persons, and aims to be widely recognized as the Single Source of Truth for legal information. 
+The company uses web-crawling over hundreds of sources, machine learning algorithms and NLP to build the richest legal document collection, and distributes this information with unprecedented precision and recall in its search engine and other products.
 
-In our Data Science, Engineering and Analytics team, I:
-- build Machine Learning models for customer segmentation and book recommendation;
-- create interactive dashboards for Product, Marketing, Customer Success and Sales teams using Metabase as BI & ad-hoc platform;
-- automate reports for internal and external use with Python (Django, Pandas and Matplotlib);
-- create, maintain and optimize ETL pipelines to ingest data in our Google BigQuery Data Warehouse;
-- provide on-demand business and product insights based on Exploratory Data Analysis;
-- play a protagonist role in spreading the data-driven culture along the company.
+Currently working as a Data Scientist in our Knowledge Base team, my aim is to add intelligence to Jusbrasil's large digital asset/Knowledge Graph with state-of-the-art text processing techniques.
+
+<details>
+  <summary>Prior: Data Analyst</summary>
+  
+  <br>
+  As Full-Stack Data Analyst, my aim was to optimize our analytical environment for generation of insights, data-driven decision-making and predictive analytics. 
+  Main activities were:
+  - building core datasets in BigQuery, to be used by Business teams, Product squads and other Data Analysts;
+  - creating interactive dashboards and advanced SQL questions in Metabase to scale behavioral analytics;
+  - orchestrating data workflows in Airflow, such as ETL pipelines, batch predictions of Machine Learning models and table snapshots.
+</details>
+  
+### Data Analyst @ Platos Educação (2019-2021)
+
+<details>
+  <summary>About this experience</summary>
+  
+  <br>
+  Platos was the part of the holding Cogna Educação, one of the world's largest educational organizations, that served the B2B market of Higher Education. 
+  The company offered, under the brand Saraiva Educação, a range of educational services and solutions for universities across the country, such as digital libraries, digital learning environments and online preparation for nation-wide exams. 
+
+  In our Data Science, Engineering and Analytics team, I:
+  - built Machine Learning models, including an end-to-end book recommender system;
+  - created interactive dashboards for Product, Marketing, Customer Success and Sales teams using Metabase as BI & ad-hoc platform;
+  - automated reports that were sent to client universities using Python (Django, Pandas and Matplotlib);
+  - created, maintained and optimized ETL pipelines to ingest data in our Google BigQuery Data Warehouse;
+  - provided on-demand business and product insights based on Exploratory Data Analysis;
+  - played a protagonist role in spreading the data-driven culture along the company.
+</details>
 
 ### BI Intern @ Somos Educação (2018-2019)
 
@@ -50,8 +72,7 @@ In our Data Science, Engineering and Analytics team, I:
   
   <br>
   
-  SOMOS was (when aquired by Kroton) the largest group of basic education in Brazil and impacted more than 27 million students across Brazil through 
-  various brands. 
+  SOMOS was (when aquired by Kroton to further become Cogna Educação) the largest group of basic education in Brazil and impacted more than 27 million students across Brazil through various brands.
 
   My role as BI Intern in the Business Unit of Solutions for Higher and Technical Education was to:
   - create BI dashboards in order to keep track of the top OKR's;
