@@ -17,6 +17,14 @@ Final project for the module of Semantic Web Technologies / Knowledge Graphs, as
 - [Final Report](https://github.com/vitor-faria/wikinator/blob/main/Wikinator%20Project%20-%20Final%20Report.pdf)
 - [Heroku app](https://kg-wikinator.herokuapp.com/)
 
+### Web Structure Mining: Paper importance prediction using Graph Neural Networks (EN/🇺🇸)
+
+Final project for the module of Web Mining, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the summer semester of 2022. In this work, Graph Neural Networks and traditional Machine Learning approaches were exploited to predict the importance a paper will have once it is published, given the citation network.
+
+- [GitHub Repo](https://github.com/Nathanael210/WebMining)
+- [Final Report](https://github.com/Nathanael210/WebMining/blob/main/reports/Web_Mining_Group_Project_Final_Paper_Team_7.pdf)
+- [Final Presentation](https://github.com/Nathanael210/WebMining/blob/main/reports/Final%20Presentation.pdf)
+
 ### Sentiment Analysis of headlines about US presidents in their first year of mandate (EN/🇺🇸)
 
 Final project for the module of Automated Media Content Analysis, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2021/22. The sentiment of headlines and snippets from The New York Times articles concerning two United States presidents (Donald Trump and Joe Biden) in their first year of government were analyzed with NLP techniques.
