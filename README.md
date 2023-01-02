@@ -40,8 +40,8 @@ Currently working as a Data Scientist in our Knowledge Base team, my aim is to a
   <summary>Prior: Data Analyst</summary>
   
   <br>
-  As Full-Stack Data Analyst, my aim was to optimize our analytical environment for generation of insights, data-driven decision-making and predictive analytics. 
-  Main activities were:
+	As Full-Stack Data Analyst, my aim was to optimize our analytical environment for generation of insights, data-driven decision-making and predictive analytics. Main activities were:
+	
   - building core datasets in BigQuery, to be used by Business teams, Product squads and other Data Analysts;
   - creating interactive dashboards and advanced SQL questions in Metabase to scale behavioral analytics;
   - orchestrating data workflows in Airflow, such as ETL pipelines, batch predictions of Machine Learning models and table snapshots.
@@ -53,16 +53,15 @@ Currently working as a Data Scientist in our Knowledge Base team, my aim is to a
   <summary>About this experience</summary>
   
   <br>
-  Platos was the part of the holding Cogna Educação, one of the world's largest educational organizations, that served the B2B market of Higher Education. 
-  The company offered, under the brand Saraiva Educação, a range of educational services and solutions for universities across the country, such as digital libraries, digital learning environments and online preparation for nation-wide exams. 
-
-  In our Data Science, Engineering and Analytics team, I:
+	Platos was the part of the holding Cogna Educação, one of the world's largest educational organizations, that served the B2B market of Higher Education. The company offered, under the brand Saraiva Educação, a range of educational services and solutions for universities across the country, such as digital libraries, digital learning environments and online preparation for nation-wide exams. In our Data Science, Engineering and Analytics team, I:
+	
   - built Machine Learning models, including an end-to-end book recommender system;
   - created interactive dashboards for Product, Marketing, Customer Success and Sales teams using Metabase as BI & ad-hoc platform;
   - automated reports that were sent to client universities using Python (Django, Pandas and Matplotlib);
   - created, maintained and optimized ETL pipelines to ingest data in our Google BigQuery Data Warehouse;
   - provided on-demand business and product insights based on Exploratory Data Analysis;
   - played a protagonist role in spreading the data-driven culture along the company.
+
 </details>
 
 ### BI Intern @ Somos Educação (2018-2019)
@@ -71,10 +70,8 @@ Currently working as a Data Scientist in our Knowledge Base team, my aim is to a
   <summary>About this experience</summary>
   
   <br>
+  SOMOS was (when aquired by Kroton to further become Cogna Educação) the largest group of basic education in Brazil and impacted more than 27 million students across Brazil through various brands. My role as BI Intern in the Business Unit of Solutions for Higher and Technical Education was to:
   
-  SOMOS was (when aquired by Kroton to further become Cogna Educação) the largest group of basic education in Brazil and impacted more than 27 million students across Brazil through various brands.
-
-  My role as BI Intern in the Business Unit of Solutions for Higher and Technical Education was to:
   - create BI dashboards in order to keep track of the top OKR's;
   - provide business insights to the leaders;
   - use Data Storytelling to build visuals and slides for Radar meetings;
@@ -116,12 +113,44 @@ Currently working as a Data Scientist in our Knowledge Base team, my aim is to a
 
 ## 👨‍🎓 Education
 
-### Data Science and Machine Learning Bootcamp @ Tera
+### Master in Data Science @ Universität Mannheim 🇩🇪
+
+The Mannheim Master in Data Science is an interdisciplinary program of study that is unique in Germany. It merges the fields of Business Informatics, Sociology, Political Science, and Mathematics and teaches students how to collect, organize, analyze, and visualize large amounts of data using the appropriate tools and methods with a practice-oriented curriculum.
+
+<details>
+  <summary>Completed modules</summary>
+  
+  <br>
+  
+  - Data Mining I & II;
+  - Web Mining;
+  - Automated Media Content Analysis;
+  - Text Analytics;
+  - Marketing Analytics;
+  - Semantic Web Technologies / Knowledge Graphs;
+  - Information Retrieval and Web Search;
+  - Advanced Software Engineering;
+  - Decision Support;
+  - Legal and Ethical Aspects in Privacy (GDPR focused).
+</details>
+
+<details>
+  <summary>Team Projects</summary>
+  
+  <br>
+  
+  - Data Mining Cup 2022;
+  - Web Structure Mining;
+  - Information Retrieval & Web Search;
+  - Knowledge Graph Application.
+</details>
+
+### Data Science and Machine Learning Bootcamp @ Tera 🇧🇷
 
 Tera is a modern school focused on Project Based Learning with Market experts of the Digital Economy. In this challenging 6-month bootcamp, me and my group 
 developed and launched the TeraBeer project - a recommending system of brazilian craft beers based on the user's taste for food and beverages.
 
-### B.Sc. in Chemical Engineering @ UFMG
+### B.Sc. in Chemical Engineering @ UFMG 🇧🇷
 
 The Bachelor of Science in Chemical Engineering at Universidade Federal de Minas Gerais graduates engineers capable of acting in the most diverse areas of the 
 chemical industry, such as food & beverages, paper & pulp, petrochemical, among others. All the professors are PhDs in the university and the main focuses are 
