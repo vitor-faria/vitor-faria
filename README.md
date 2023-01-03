@@ -9,7 +9,7 @@ Currently living in Germany, and engaged in the Master Program of Data Science a
 
 ## 👨‍🔬 Projects, Notebooks & Articles
 
-### <a name="KG-project"></a> Wikinator: an Akinator-like game based on DBPedia's Knowledge Graph (EN/🇺🇸)
+### Wikinator: an Akinator-like game based on DBPedia's Knowledge Graph (EN/🇺🇸)
 
 Team project for the module of Semantic Web Technologies / Knowledge Graphs, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2022/23. It is a game application inspired in Akinator, that tries to guess which real world person or fictional character the players are thinking of, but relying solely on data available in DBPedia's Knowledge Graph and SPARQL queries.
 
@@ -17,7 +17,7 @@ Team project for the module of Semantic Web Technologies / Knowledge Graphs, as 
 - [Final Report](https://github.com/vitor-faria/wikinator/blob/main/Wikinator%20Project%20-%20Final%20Report.pdf)
 - [Heroku app](https://kg-wikinator.herokuapp.com/)
 
-### <a name="WM-project"></a> Web Structure Mining: Paper importance prediction using Graph Neural Networks (EN/🇺🇸)
+### Web Structure Mining: Paper importance prediction using Graph Neural Networks (EN/🇺🇸)
 
 Team project for the module of Web Mining, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the summer semester of 2022. In this work, Graph Neural Networks and traditional Machine Learning approaches were exploited to predict the importance a paper will have once it is published, given the citation network.
 
@@ -25,21 +25,21 @@ Team project for the module of Web Mining, as part of the program Mannheim Maste
 - [Final Report](https://github.com/Nathanael210/WebMining/blob/main/reports/Web_Mining_Group_Project_Final_Paper_Team_7.pdf)
 - [Final Presentation](https://github.com/Nathanael210/WebMining/blob/main/reports/Final%20Presentation.pdf)
 
-### <a name="IR-project"></a> Information Retrieval: Learning-To-Rank with embeddings for document retrieval (EN/🇺🇸)
+### Information Retrieval: Learning-To-Rank with embeddings for document retrieval (EN/🇺🇸)
 
 Team project for the module of Information Retrieval and Web Search, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the summer semester of 2022. In this work, traditional IR approaches such as TF-IDF and BM-25, as well as recent embedding techniques, such as GloVe, BERT and BART, were exploited in a Learning to Rank algorithm for document retrieval.
 
 - [GitHub Repo](https://github.com/annadymanus/IR-project)
 - [Final Presentation](https://github.com/annadymanus/IR-project/blob/main/IR_Team3.pdf)
 
-### <a name="AMCA-project"></a> Sentiment Analysis of headlines about US presidents in their first year of mandate (EN/🇺🇸)
+### Sentiment Analysis of headlines about US presidents in their first year of mandate (EN/🇺🇸)
 
 Final project for the module of Automated Media Content Analysis, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2021/22. The sentiment of headlines and snippets from The New York Times articles concerning two United States presidents (Donald Trump and Joe Biden) in their first year of government were analyzed with NLP techniques.
 
 - [GitHub Repo](https://github.com/vitor-faria/nyt-headlines-sentiment)
 - [Notebook Report](https://github.com/vitor-faria/nyt-headlines-sentiment/blob/main/AMCA_Project_and_Report.ipynb)
 
-### <a name="terabeer"></a> TeraBeer: a recommender system of brazilian craft beers (PT/🇧🇷)
+### TeraBeer: a recommender system of brazilian craft beers (PT/🇧🇷)
 
 Recommending system of brazilian craft beers based on the user's taste for food and beverages. This was the final project of Tera's bootcamp of Data Science & Machine Learning, developed by me and a group of 4 other students and presented in a Demoday's panel of experts.
 
@@ -168,15 +168,15 @@ The Mannheim Master in Data Science is an interdisciplinary program of study tha
   
   <br>
   
-  - [Web Structure Mining](#WM-project);
-  - [Information Retrieval & Web Search](#IR-project);
-  - [Knowledge Graph Application](#KG-project).
+  - [Web Structure Mining](#-web-structure-mining-paper-importance-prediction-using-graph-neural-networks-en);
+  - [Information Retrieval & Web Search](#-information-retrieval-learning-to-rank-with-embeddings-for-document-retrieval-en);
+  - [Knowledge Graph Application](#-wikinator-an-akinator-like-game-based-on-dbpedias-knowledge-graph-en).
 </details>
 
 ### Data Science and Machine Learning Bootcamp @ Tera 🇧🇷
 
 Tera is a modern school focused on Project Based Learning with Market experts of the Digital Economy. In this challenging 6-month bootcamp, me and my group 
-developed and launched the TeraBeer project - a recommending system of brazilian craft beers based on the user's taste for food and beverages.
+developed and launched the [TeraBeer project](#terabeer-a-recommender-system-of-brazilian-craft-beers-pt) - a recommending system of brazilian craft beers based on the user's taste for food and beverages.
 
 ### B.Sc. in Chemical Engineering @ UFMG 🇧🇷
 
