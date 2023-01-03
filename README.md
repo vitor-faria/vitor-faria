@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitor-faria)](https://github.com/vitor-faria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-faria/)](https://www.linkedin.com/in/vitor-faria/)
 
-Brazilian-Italian ISFJ generalist who has shifted from Chemical Engineering to the Data career, and accumulated over 3 years of work experience in Data Science, Business Intelligence and Analytics Engineering, with the purpose of making data useful for people and companies. 
+Brazilian-Italian ISFJ generalist who has shifted from Chemical Engineering to the Data career. Over 3 years of work experience in Data Science, Business Intelligence and Analytics Engineering, with the purpose of making data useful for people and companies. 
 
 Currently living in Germany, and engaged in the Master Program of Data Science at the University of Mannheim.
 
@@ -11,7 +11,7 @@ Currently living in Germany, and engaged in the Master Program of Data Science a
 
 ### Wikinator: an Akinator-like game based on DBPedia's Knowledge Graph (EN/🇺🇸)
 
-Final project for the module of Semantic Web Technologies / Knowledge Graphs, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2022/23. It is a game application inspired in Akinator, that tries to guess which real world person or fictional character the players are thinking of, but relying solely on data available in DBPedia's Knowledge Graph and SPARQL queries.
+Team project for the module of Semantic Web Technologies / Knowledge Graphs, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2022/23. It is a game application inspired in Akinator, that tries to guess which real world person or fictional character the players are thinking of, but relying solely on data available in DBPedia's Knowledge Graph and SPARQL queries.
 
 - [GitHub Repo](https://github.com/vitor-faria/wikinator)
 - [Final Report](https://github.com/vitor-faria/wikinator/blob/main/Wikinator%20Project%20-%20Final%20Report.pdf)
@@ -19,18 +19,25 @@ Final project for the module of Semantic Web Technologies / Knowledge Graphs, as
 
 ### Web Structure Mining: Paper importance prediction using Graph Neural Networks (EN/🇺🇸)
 
-Final project for the module of Web Mining, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the summer semester of 2022. In this work, Graph Neural Networks and traditional Machine Learning approaches were exploited to predict the importance a paper will have once it is published, given the citation network.
+Team project for the module of Web Mining, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the summer semester of 2022. In this work, Graph Neural Networks and traditional Machine Learning approaches were exploited to predict the importance a paper will have once it is published, given the citation network.
 
 - [GitHub Repo](https://github.com/Nathanael210/WebMining)
 - [Final Report](https://github.com/Nathanael210/WebMining/blob/main/reports/Web_Mining_Group_Project_Final_Paper_Team_7.pdf)
 - [Final Presentation](https://github.com/Nathanael210/WebMining/blob/main/reports/Final%20Presentation.pdf)
+
+### Information Retrieval: Learning-To-Rank with embeddings for document retrieval (EN/🇺🇸)
+
+Team project for the module of Information Retrieval and Web Search, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the summer semester of 2022. In this work, traditional IR approaches such as TF-IDF and BM-25, as well as recent embedding techniques, such as GloVe, BERT and BART, were exploited in a Learning to Rank algorithm for document retrieval.
+
+- [GitHub Repo](https://github.com/annadymanus/IR-project)
+- [Final Presentation](https://github.com/annadymanus/IR-project/blob/main/IR_Team3.pdf)
 
 ### Sentiment Analysis of headlines about US presidents in their first year of mandate (EN/🇺🇸)
 
 Final project for the module of Automated Media Content Analysis, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2021/22. The sentiment of headlines and snippets from The New York Times articles concerning two United States presidents (Donald Trump and Joe Biden) in their first year of government were analyzed with NLP techniques.
 
 - [GitHub Repo](https://github.com/vitor-faria/nyt-headlines-sentiment)
-- [Notebook and Report](https://github.com/vitor-faria/nyt-headlines-sentiment/blob/main/AMCA_Project_and_Report.ipynb)
+- [Notebook Report](https://github.com/vitor-faria/nyt-headlines-sentiment/blob/main/AMCA_Project_and_Report.ipynb)
 
 ### TeraBeer: a recommender system of brazilian craft beers (PT/🇧🇷)
 
@@ -160,7 +167,6 @@ The Mannheim Master in Data Science is an interdisciplinary program of study tha
   
   <br>
   
-  - Data Mining Cup 2022;
   - Web Structure Mining;
   - Information Retrieval & Web Search;
   - Knowledge Graph Application.
