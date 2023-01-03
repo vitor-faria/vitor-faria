@@ -150,15 +150,15 @@ The Mannheim Master in Data Science is an interdisciplinary program of study tha
   
   <br>
   
-  - Data Mining I & II;
-  - Web Mining;
+  - [Data Mining I](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-500-data-mining/) & [II](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-672-data-mining-2/);
+  - [Web Mining](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-671-web-mining/);
   - Automated Media Content Analysis;
-  - Text Analytics;
+  - [Text Analytics](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-661-text-analytics/);
   - Marketing Analytics;
-  - Semantic Web Technologies / Knowledge Graphs;
-  - Information Retrieval and Web Search;
+  - [Semantic Web Technologies / Knowledge Graphs](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-650-knowledge-graphs/);
+  - [Information Retrieval and Web Search](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-663-information-retrieval-and-web-search/);
   - Advanced Software Engineering;
-  - Decision Support;
+  - [Decision Support](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-560-decision-support/);
   - Legal and Ethical Aspects in Privacy (GDPR focused).
 </details>
 
