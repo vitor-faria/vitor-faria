@@ -168,9 +168,9 @@ The Mannheim Master in Data Science is an interdisciplinary program of study tha
   
   <br>
   
-  - [Web Structure Mining](#-web-structure-mining-paper-importance-prediction-using-graph-neural-networks-en);
-  - [Information Retrieval & Web Search](#-information-retrieval-learning-to-rank-with-embeddings-for-document-retrieval-en);
-  - [Knowledge Graph Application](#-wikinator-an-akinator-like-game-based-on-dbpedias-knowledge-graph-en).
+  - [Web Structure Mining](#web-structure-mining-paper-importance-prediction-using-graph-neural-networks-en);
+  - [Information Retrieval & Web Search](#information-retrieval-learning-to-rank-with-embeddings-for-document-retrieval-en);
+  - [Knowledge Graph Application](#wikinator-an-akinator-like-game-based-on-dbpedias-knowledge-graph-en).
 </details>
 
 ### Data Science and Machine Learning Bootcamp @ Tera 🇧🇷
