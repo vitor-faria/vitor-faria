@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitor-faria)](https://github.com/vitor-faria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-faria/)](https://www.linkedin.com/in/vitor-faria/)
 
-Brazilian-Italian ISFJ generalist who has shifted from Chemical Engineering to the Data career. Over 3 years of work experience in Data Science, Business Intelligence and Analytics Engineering, with the purpose of making data useful for people and companies. 
+Brazilian-Italian ISFJ of generalist profile who has shifted from Chemical Engineering to the Data career in tech companies. Over 3 years of work experience in Data Science, Business Intelligence and Analytics Engineering, with the purpose of making data useful for better decision making. 
 
 Currently living in Germany, and engaged in the Master Program of Data Science at the University of Mannheim.
 
@@ -11,7 +11,7 @@ Currently living in Germany, and engaged in the Master Program of Data Science a
 
 ### Wikinator: an Akinator-like game based on DBPedia's Knowledge Graph (EN/🇺🇸)
 
-Team project for the module of Semantic Web Technologies / Knowledge Graphs, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2022/23. It is a game application inspired in Akinator, that tries to guess which real world person or fictional character the players are thinking of, but relying solely on data available in DBPedia's Knowledge Graph and SPARQL queries.
+Team project for the module of Semantic Web Technologies / Knowledge Graphs, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2022/23. It is a game application inspired in Akinator, that tries to guess which real world person or fictional character the players are thinking of, but relying solely on data available in DBPedia's Knowledge Graph and using only SPARQL queries for data extraction.
 
 - [GitHub Repo](https://github.com/vitor-faria/wikinator)
 - [Final Report](https://github.com/vitor-faria/wikinator/blob/main/Wikinator%20Project%20-%20Final%20Report.pdf)
@@ -143,7 +143,7 @@ Currently working as a Data Scientist in our Knowledge Base team, my aim is to a
 
 ### Master in Data Science @ Universität Mannheim 🇩🇪
 
-The Mannheim Master in Data Science is an interdisciplinary program of study that is unique in Germany. It merges the fields of Business Informatics, Sociology, Political Science, and Mathematics and teaches students how to collect, organize, analyze, and visualize large amounts of data using the appropriate tools and methods with a practice-oriented curriculum.
+The [Mannheim Master in Data Science](https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/) is an interdisciplinary program of study that is unique in Germany. It merges the fields of Business Informatics, Sociology, Political Science, and Mathematics and teaches students how to collect, organize, analyze, and visualize large amounts of data using the appropriate tools and methods with a practice-oriented curriculum.
 
 <details>
   <summary>Completed modules</summary>
@@ -175,15 +175,14 @@ The Mannheim Master in Data Science is an interdisciplinary program of study tha
 
 ### Data Science and Machine Learning Bootcamp @ Tera 🇧🇷
 
-Tera is a modern school focused on Project Based Learning with Market experts of the Digital Economy. In this challenging 6-month bootcamp, me and my group 
-developed and launched the [TeraBeer project](#terabeer-a-recommender-system-of-brazilian-craft-beers-pt) - a recommending system of brazilian craft beers based on the user's taste for food and beverages.
+Tera is a modern school focused on Project Based Learning with Market experts of the Digital Economy. 
+In this challenging [6-month bootcamp](https://somostera.com/cursos/data-science-machine-learning), me and my group developed and launched the [TeraBeer project](#terabeer-a-recommender-system-of-brazilian-craft-beers-pt) - a recommending system of brazilian craft beers based on the user's taste for food and beverages.
 
 ### B.Sc. in Chemical Engineering @ UFMG 🇧🇷
 
-The Bachelor of Science in Chemical Engineering at Universidade Federal de Minas Gerais graduates engineers capable of acting in the most diverse areas of the 
-chemical industry, such as food & beverages, paper & pulp, petrochemical, among others. All the professors are PhDs in the university and the main focuses are 
-in Transport Phenomena, Thermodynamics, Kinetics & Reactor Design and Unit Operations. During university years I was engaged in different extracurricular 
-activities:
+The [Bachelor of Science in Chemical Engineering at Universidade Federal de Minas Gerais](https://www.deq.ufmg.br/) graduates engineers capable of acting in the most diverse areas of the chemical industry, such as food & beverages, paper & pulp, petrochemical, among others. 
+All the professors are PhDs in the university and the main focuses are in Transport Phenomena, Thermodynamics, Kinetics & Reactor Design and Unit Operations. 
+During university years I was engaged in different extracurricular activities:
 
 #### Automation & Simulation Summer School @ RTWH Aachen 🇩🇪
 
